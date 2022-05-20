@@ -1,2 +1,3 @@
 # input-animation-by-css
-Um botão animado em check;
+Criando uma checkbox animada com Css puro;
+
